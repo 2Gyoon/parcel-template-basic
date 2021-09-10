@@ -13,7 +13,7 @@ export{
 */
 
 module.exports = {
-  plugin: [
+  plugins: [
     require('autoprefixer')
   ]
 }
